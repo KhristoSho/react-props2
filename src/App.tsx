@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import { MessageHistory } from './components/MessageHistory/MessageHistory';
 import { messages } from './components/data/data';

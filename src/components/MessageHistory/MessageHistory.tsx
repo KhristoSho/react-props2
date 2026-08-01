@@ -1,4 +1,4 @@
-import React from "react";
+import "./MessageHistory.css"
 
 interface Author {
   name: string;
